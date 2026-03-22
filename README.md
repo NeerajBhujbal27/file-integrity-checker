@@ -63,11 +63,8 @@ The script scans all files in the specified directory, generates a SHA-256 hash 
 - Email or notification alerts on changes  
 - Support for multiple hash algorithms  
 
-## 📜 License
-This project is developed for educational and internship purposes.
-
 ## 👨‍💻 Author
-Your Name
+Neeraj Bhujbal
 
 ## 📎 Submission Note
 This project is submitted as part of the Cyber Security Internship Task (Task 1), as per the given instructions.
